@@ -1,0 +1,132 @@
+h1{
+
+
+    text-align: center;
+    text-decoration: double;
+    padding: 40px;
+    margin: 60px;
+}
+
+
+h2{
+    text-align: center;
+    text-decoration: double;
+
+}
+.web{
+    
+    padding: 10px;
+    margin: 10px;
+}
+
+.image{
+    padding: 10px;
+    margin: 10px;
+    float: right;
+    width: 50%;
+    height: fit-content;
+    margin: ;
+    
+
+
+}
+.
+.icons nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+
+
+
+
+}
+.
+.nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: relative;
+    text-decoration: double;
+
+
+
+
+
+}
+nav ul li{
+    display: inline-block;
+    background-color: black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Arial;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.5s;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-family: Arial;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.5s;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-family: Arial;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.5s;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-family: Arial;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.5s;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-family: Arial;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.5s;
+    box-shadow: 0
+
+
+
+
+}
+
+
+}
